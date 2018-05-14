@@ -1,0 +1,39 @@
+import java.applet.Applet;
+import java.awt.*;
+import java.awt.event.*;
+
+/*
+*
+*/
+
+public class className extends Applet implements ActionsListener,AdjustmentListener{
+
+/*
+*
+*/
+  
+  public void init(){
+  
+  
+  
+  }
+  
+  public void paint(Graphics g){
+  
+  
+  
+  }
+  
+  public void adjustmentValueChanged(AdjustmentEvent e){
+  
+  
+  
+  }
+  
+  public void actionPerformed(ActionEvent r){
+  
+  
+  
+  }
+
+}
